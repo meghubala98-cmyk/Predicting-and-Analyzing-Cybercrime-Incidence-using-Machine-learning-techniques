@@ -1,0 +1,2 @@
+# Predicting-and-Analyzing-Cybercrime-Incidence-using-Machine-learning-techniques
+Cyberbullying remains a serious online issue, creating the need for a proactive and reliable detection system. This research explores and compares advanced machine learning models to predict and prevent cyberbullying with high accuracy. The goal is to identify the most effective classifier and contribute toward building a safer digital environment.
